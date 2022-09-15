@@ -36,7 +36,6 @@ struct CoinRowView_Previews: PreviewProvider {
           .previewLayout(.sizeThatFits)
           .preferredColorScheme(.dark)
       }
-     
     }
 }
 

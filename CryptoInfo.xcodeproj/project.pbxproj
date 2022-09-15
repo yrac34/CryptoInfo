@@ -19,6 +19,7 @@
 		FB63455028D1921100594556 /* CoinRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB63454F28D1921000594556 /* CoinRowView.swift */; };
 		FB63455228D1926B00594556 /* PreviewProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB63455128D1926B00594556 /* PreviewProvider.swift */; };
 		FB63455428D1964600594556 /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB63455328D1964600594556 /* Double.swift */; };
+		FBB131EB28D2F8CC00F5C79A /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBB131EA28D2F8CC00F5C79A /* HomeViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		FB63454F28D1921000594556 /* CoinRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinRowView.swift; sourceTree = "<group>"; };
 		FB63455128D1926B00594556 /* PreviewProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewProvider.swift; sourceTree = "<group>"; };
 		FB63455328D1964600594556 /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
+		FBB131EA28D2F8CC00F5C79A /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		FB439D3A28CEF6220098FDE8 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				FBB131EA28D2F8CC00F5C79A /* HomeViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -226,6 +229,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FB63455028D1921100594556 /* CoinRowView.swift in Sources */,
+				FBB131EB28D2F8CC00F5C79A /* HomeViewModel.swift in Sources */,
 				FB439D2728CEF1890098FDE8 /* ContentView.swift in Sources */,
 				FB439D3C28CEF6770098FDE8 /* HomeView.swift in Sources */,
 				FB439D2528CEF1890098FDE8 /* CryptoInfoApp.swift in Sources */,
